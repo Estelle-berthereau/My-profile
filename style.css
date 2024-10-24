@@ -1,0 +1,62 @@
+body {
+	
+ 	 background-image: url("https://gd-hbimg.huaban.com/6cf3d3ae64472ac0857c704d6b2bfa0ad111fd651a39d-A5RZ0a");
+ 	 background-repeat: no-repeat;
+ 	 background-size: cover;
+ 	 background-attachment: fixed;
+     font-family: "Pacifica", sans-serif;
+     color: #674636
+     font-size: 16px;
+     margin-top: 80px;
+     padding: 80px;
+    
+}
+
+.Profile-circle{
+	border-radius: 50%;
+}
+
+     
+h1 {
+    font-size: 32px;
+}
+
+h2, h3, h4, h5 { 
+	font-size: 24px;
+}
+
+h4{
+	margin-bottom: 0.7em;
+}
+h5{
+	margin-bottom: 0.7em;
+}
+
+h6 {
+	font-size: 15px;
+	margin-top:10px;
+
+}
+
+a {
+	text-decoration: none;
+	color: rgb(10,104,71);
+}
+a:hover {
+	color: rgb(122,186,120);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
